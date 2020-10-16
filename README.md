@@ -1,2 +1,8 @@
-# school-project
-This is my first front-end task in college.
+# Projeto Escolar
+Esse é meu primeiro projeto escolar com intuito de aprendizagem
+realizado no primeiro semestre da faculdade.
+Tecnologias utilizadas:
+* HTML5
+* CSS3
+* BOOTSTRAP4
+* JAVASCRIPT
