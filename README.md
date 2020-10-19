@@ -6,3 +6,10 @@ Tecnologias utilizadas:
 * CSS3
 * BOOTSTRAP4
 * JAVASCRIPT
+
+。　　　　•　 　ﾟ　　。
+　　.　　　.　　　 　　.　　　　　。　　 。　.
+　.　　 。　 ඞ 。　 . •
+• Japinha was not the Impostor　 。　.
+　 　　。　　 　　　　ﾟ　　　.　 　　　.
+,　　　　.　 .　　 .
